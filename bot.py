@@ -137,4 +137,4 @@ async def hint(ctx, id: str):
     except Exception as e:
         await ctx.respond(f"❌ 發生錯誤：{str(e)}")
 
-bot.run("MTM3ODg4MzI2ODM1ODk2NzQ0OA.GFggOy.27YPBLbfSDa11Xh_ybRgo-eoYPL0I1f89v2Vs4")
+bot.run("your_bot_key")
